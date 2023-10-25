@@ -1,6 +1,6 @@
 👋 Hi, I’m @Arpit
 <br></br>
-👀 I’m interested in science and technology
+👀 I’m interested in engineering marvels
  <br></br>
 🌱 I’m currently learning javascript, python and R. 
  <br></br>
